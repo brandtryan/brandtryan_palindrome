@@ -38,6 +38,7 @@ $ irb
 >> phrase = "Madam, I'm Adam."
 >> phrase.palindrome?
 => true
+```
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/brandtryan/brandtryan_palindrome.
