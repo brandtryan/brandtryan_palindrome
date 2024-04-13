@@ -4,10 +4,10 @@
 
 ## Installation
 
-To install `mhartl_palindrome`, add this line to your application's `Gemfile`:
+To install `brandtryan_palindrome`, add this line to your application's `Gemfile`:
 
 ```
-gem 'mhartl_palindrome'
+gem 'brandtryan_palindrome'
 ```
 
 Then install as follows:
@@ -19,16 +19,16 @@ $ bundle install
 Or install it directly using `gem`:
 
 ```
-$ gem install mhartl_palindrome
+$ gem install brandtryan_palindrome
 ```
 
 ## Usage
 
-`mhartl_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
+`brandtryan_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
 
 ```
 $ irb
->> require 'mhartl_palindrome'
+>> require 'brandtryan_palindrome'
 >> "honey badger".palindrome?
 => false
 >> "deified".palindrome?
